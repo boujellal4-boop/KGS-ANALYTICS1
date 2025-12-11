@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from utils import calculate_kpis, generate_required_charts
 
-st.set_page_config(page_title="KGS Marketing Analytics – ROI Report Tool", layout="wide")
+st.set_page_config(page_title="KGS Marketing Analytics – ROI Report Tool - NOT COMPLETE ERROR ON ROI FORMULA", layout="wide")
 st.title("KGS Marketing Analytics – ROI Report Tool")--
 
 # Sidebar Inputs (Monthly, EUR)
